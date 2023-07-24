@@ -1,0 +1,8 @@
+E:\.net program\chessboard\bin\Debug\chessboard.exe.config
+E:\.net program\chessboard\bin\Debug\chessboard.exe
+E:\.net program\chessboard\bin\Debug\chessboard.pdb
+E:\.net program\chessboard\obj\Debug\chessboard.csproj.AssemblyReference.cache
+E:\.net program\chessboard\obj\Debug\chessboard.csproj.SuggestedBindingRedirects.cache
+E:\.net program\chessboard\obj\Debug\chessboard.csproj.CoreCompileInputs.cache
+E:\.net program\chessboard\obj\Debug\chessboard.exe
+E:\.net program\chessboard\obj\Debug\chessboard.pdb
